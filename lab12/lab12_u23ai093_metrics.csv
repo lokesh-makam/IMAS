@@ -1,0 +1,3 @@
+approach,rescued,completion_time,completed,cumulative_reward,collisions,hazard_entries,invalid_moves
+Independent Q-learning,3.0,13.0,1.0,72.19999999999999,0.0,0.0,0.0
+Cooperative Q-learning,3.0,13.0,1.0,70.19999999999999,0.0,0.0,1.0
